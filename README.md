@@ -17,6 +17,7 @@ Cette bibliothèque n'est composé "que" de 6 hexagones mais cela est suffisant 
 
 --------------------- Programme et Utilisation ---------------------
 
-Ce nombre élevé de caractère aléatoire à placer procure une certaine latence, je préviens, pouvant aller d'une trentaine de secondes à quelques minutes pour les PC les plus lents.)
+Ce nombre élevé de caractère aléatoire à placer procure une certaine latence, je préviens, pouvant aller d'une trentaine de secondes à quelques minutes pour les PC les plus lents.
 Parcourir la bibliothèque demande d'entrer des touches et de valider l'entrée.
+
 #####-----> Lancement du programme : copier l'adresse de l'exécutable (babel) dans le terminal et entrer.
